@@ -1,4 +1,4 @@
-***Technical debt in your application and cross-platform***
+***Technical debt in your application and cross-platform "Migrate SqlCLient"***
 
 Have you ever wondered why it is so difficult to migrate your application to newer technology or run it on multiple operating systems?
 Sometimes cross-platform functionality is not possible due to elements related to Windows.
